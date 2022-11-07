@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure. ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptate quia modi, voluptates porro at error reiciendis, dignissimos autem minima commodi nihil rerum, nulla asperiores doloribus perspiciatis deserunt ipsa iure.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "shuayb",
+      "body": "shuayb is a boy",
+      "author": "yoshi",
+      "id": 5
+    }
+  ]
+}
